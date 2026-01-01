@@ -31,4 +31,13 @@ This lead to solving 2 problems:
 
    In order to solve this I just used a 5 second sleep command in BASH to let display switch happen before audio switch.
 
+
+
+
+**Some useful commands**
+
+* kscreen-doctor --outputs
+* pactl list sinks | grep -E 'Name|Desc|State'
+* pactl get-default-sink
+
    
