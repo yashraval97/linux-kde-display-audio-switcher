@@ -1,0 +1,1 @@
+# linux-kde-display-audio-switcher
